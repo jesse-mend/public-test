@@ -7,7 +7,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [],
-	"author": "Ece Akturk",
+	"author": "Jesse French",
 	"license": "ISC",
 	"dependencies": {
 		"serialize-javascript": "1.6.0",
